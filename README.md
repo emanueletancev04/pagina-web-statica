@@ -36,9 +36,3 @@ Questo progetto è stato creato con i seguenti obiettivi di apprendimento:
 2.  **Mettere in pratica la creazione di layout complessi e responsive.**
 3.  **Dimostrare la capacità di tradurre un design visivo in codice funzionante.**
 4.  **Creare un progetto "vetrina" pulito e professionale da aggiungere al proprio portfolio.**
-
----
-
-## 🚀 Come Visualizzare il Progetto
-
-È possibile visualizzare la pagina semplicemente scaricando il repository e aprendo il file `index.html` in un qualsiasi browser web.
