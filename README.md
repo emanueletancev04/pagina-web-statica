@@ -4,8 +4,6 @@ Questo repository contiene il codice sorgente per una landing page statica e com
 
 Il progetto simula la pagina di presentazione di un corso di sviluppo web, con un layout moderno a due colonne che si adatta a diverse dimensioni dello schermo.
 
-![Screenshot della pagina desktop](https://i.imgur.com/T0YtF2B.png ) 
-*(Nota: puoi sostituire questo link con uno screenshot del tuo progetto)*
 
 ---
 
