@@ -7,7 +7,7 @@ Il progetto simula la pagina di presentazione di un corso di sviluppo web, con u
 
 ---
 
-## ✨ Caratteristiche Principali
+##  Caratteristiche Principali
 
 *   **Struttura Semantica HTML5:** Utilizzo di tag moderni come `<header>`, `<nav>`, `<main>`, `<aside>` e `<footer>` per una migliore accessibilità e SEO.
 *   **Layout Moderno con Flexbox:** Il layout principale a due colonne (contenuto e sidebar) è gestito interamente con CSS Flexbox, una delle tecniche fondamentali per l'impaginazione web.
@@ -17,7 +17,7 @@ Il progetto simula la pagina di presentazione di un corso di sviluppo web, con u
 
 ---
 
-## 🛠️ Tecnologie Utilizzate
+##  Tecnologie Utilizzate
 
 *   **HTML5**
 *   **CSS3**
@@ -28,7 +28,7 @@ Il progetto simula la pagina di presentazione di un corso di sviluppo web, con u
 
 ---
 
-## 🎯 Scopo del Progetto
+##  Scopo del Progetto
 
 Questo progetto è stato creato con i seguenti obiettivi di apprendimento:
 
