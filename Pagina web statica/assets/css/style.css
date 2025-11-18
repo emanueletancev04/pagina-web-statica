@@ -98,10 +98,10 @@ img {
 
 /* === LAYOUT PRINCIPALE (FLEXBOX) === */
 .main-container {
-  display: flex;
+  display: grid;
+  grid-template-columns: 3fr 1fr;
   gap: 2rem;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 25px;
 }
 
 .content {
@@ -196,3 +196,4 @@ img {
     margin-bottom: 0.5rem;
   }
 }
+
